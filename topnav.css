@@ -13,6 +13,8 @@ li, a, button{
     text-decoration: none;
 }
 header{
+    border: solid white;
+    border-radius: 20px;
     display: flex;
     justify-content: flex-end;
     align-items: center;
@@ -47,6 +49,7 @@ button:hover{
     background-color: rgba(0,136,169,0.8);
 }
 footer{
+    border: solid white;
     position:bottom;
     width: 100%;
     background: #000000;
